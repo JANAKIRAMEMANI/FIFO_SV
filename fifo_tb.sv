@@ -1,5 +1,5 @@
-`include "interface.sv"
-`include "test.sv"
+`include "fifo_interface.sv"
+`include "fifo_test.sv"
 `define DEF_FIFO_WIDTH 8
 `define DEF_FIFO_DEPTH 2**5
 
